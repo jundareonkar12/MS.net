@@ -1,0 +1,4 @@
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\HRLib\bin\Debug\HRLib.dll
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\HRLib\bin\Debug\HRLib.pdb
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\HRLib\obj\Debug\HRLib.dll
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\HRLib\obj\Debug\HRLib.pdb

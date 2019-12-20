@@ -1,0 +1,4 @@
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\BankingLib.cs\bin\Debug\BankingLib.cs.dll
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\BankingLib.cs\bin\Debug\BankingLib.cs.pdb
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\BankingLib.cs\obj\Debug\BankingLib.cs.dll
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\BankingLib.cs\obj\Debug\BankingLib.cs.pdb

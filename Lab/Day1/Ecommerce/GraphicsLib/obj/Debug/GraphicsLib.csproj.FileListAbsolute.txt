@@ -1,0 +1,4 @@
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\GraphicsLib\bin\Debug\GraphicsLib.dll
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\GraphicsLib\bin\Debug\GraphicsLib.pdb
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\GraphicsLib\obj\Debug\GraphicsLib.dll
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\GraphicsLib\obj\Debug\GraphicsLib.pdb

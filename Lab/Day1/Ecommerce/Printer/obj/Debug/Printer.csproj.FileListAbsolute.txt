@@ -1,0 +1,8 @@
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\Printer\bin\Debug\Printer.exe.config
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\Printer\bin\Debug\Printer.exe
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\Printer\bin\Debug\Printer.pdb
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\Printer\bin\Debug\BankingLib.cs.dll
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\Printer\bin\Debug\BankingLib.cs.pdb
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\Printer\obj\Debug\Printer.csprojResolveAssemblyReference.cache
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\Printer\obj\Debug\Printer.exe
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\Printer\obj\Debug\Printer.pdb

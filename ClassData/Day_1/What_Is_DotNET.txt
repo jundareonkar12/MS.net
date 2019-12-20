@@ -1,0 +1,113 @@
+Introduction to DOT NET Framework
+
+This is important for you as a dot net developer to know the history and evolution of the DOT NET Framework. 
+
+
+Before DOT NET Framework COM  is there. So, let us first discuss what is COM and what problems we face in COM.
+
+What is COM?
+
+COM stands for Component Object Model. The COM is one of Microsoft Technologies. Using this technology we can develop windows applications as well as web applications. In earlier COM, VB is the programming language that is used to implement windows application and ASP is used to implement web applications.
+
+What are the disadvantages of COM?
+
+The major two disadvantages of COM is
+
+Incomplete object-oriented programming means it will not support all the features of OOPs.
+Platform dependent means COM applications can run on only Windows OS.
+To overcome the above problems, the DOT NET Framework comes into the picture.
+
+What .NET Represents?
+
+NET stands for Network Enabled Technology. In .NET, dot (.) refers to object-oriented and NET refers to the internet. So the complete .NET means through object-oriented we can implement internet-based applications.
+
+What is a Framework?
+A framework is a software. Or you can say a framework is a collection of many small technologies integrated together to develop applications that can be executed anywhere.
+
+What does the DOTNET Framework provide?
+
+The DOTNET Framework provides two things are as follows
+
+BCL (Base Class Libraries)
+CLR (Common Language Runtime)
+
+BCL
+
+Base Class Libraries (BCL) is designed by Microsoft. Without BCL we can’t write any code in .NET. So, BCL is also known as the Building block of .NET Programs. These are installed into the machine when we installed the .NET framework. BCL contains pre-defined classes and these classes are used for the purpose of application development.
+
+The physical location of BCL is C:\Windows\assembly
+
+CLR
+CLR stands for Common Language Runtime and it is the core component under the .NET framework which is responsible for converting the MSIL (Microsoft Intermediate Language) code into native code and then execution. In our next article, we will discuss CLR in detail.
+
+
+
+In the .NET framework, the code is compiled twice.
+
+In the 1st compilation, the source code is compiled by respective language compiler and generates the intermediate code which is known as MSIL (Microsoft Intermediate Language) or IL (Intermediate language code) Or Managed Code.
+In the 2nd compilation, MSIL is converted into Native code (native code means code specific to Operating system so that the code is executed by the Operating System ) using CLR.
+Always 1st compilation is slow and 2nd compilation is first.
+
+What is JIT?
+
+JIT stands for Just-in-time compiler. It is the component of CLR which is responsible for converting MSIL code into Native Code. This Native code is directly understandable by the operating system.
+
+
+Different types of DOTNET Framework.
+The .net framework is available in three different flavors
+
+DOTNET Framework: 
+	This is the general version required to run .NET applications on Windows OS only.
+DotNet core: 
+	This is required if we want to run DOT NET applications on other OS like Unix, Linux, MAC OS, etc.
+
+
+NOTE: MSIL is only CPU dependent and will run only on Windows OS only using .NET Framework because .NET Framework is designed for Windows OS only.
+
+
+What is not DOT NET?
+	.NET is not an Operating system.
+	It is not an application or package.
+	.NET is not a database
+	It is not an ERP application.
+	.NET is not a Testing Tool.
+	It is not a programming language.
+
+What is exactly DOTNET?
+.NET is a framework tool that supports many programming languages and many technologies. 
+.NET support 60+ programming languages. 
+ In 60+ programming languages, 9 are designed by Microsoft and remaining are designed by non-Microsoft.
+
+Microsoft designed programming languages are as follows
+
+	VB.NET
+	C#.NET
+	VC++.NET
+	J#.NET
+	F#.NET
+	Jscript.NET
+	WindowsPowerShell
+	Iron phyton
+	Iron Ruby
+
+Technologies supported by the .NET framework are as follows
+
+	ASP.NET (Active Server Pages.NET)
+	ADO.NET (Active Data Object.NET)
+	WCF (Windows Communication Foundation)
+	WPF (Windows Presentation Foundation)
+	WWF (Windows Workflow Foundation)
+	AJAX (Asynchronous JavaScript and XML)
+	LINQ (Language Integrated Query)
+	
+What a language is and its need?
+	Language acts as the mediator between the programmer and the system.
+	It offers some rules and regulations for writing the program.
+	The language also offers some libraries which are required for writing the program.
+
+What are Technology and its needs?
+	Technology is always designed for a particular purpose.
+	For example development of web-related applications in .NET using a technology ASP.NET.
+	But the technology does not offer any specific rules for writing the programs. That’s why technology can’t be implemented individually.
+	VB.NET, C#.NET both are programming languages. Using these two languages we can implement windows/desktop applications individually.
+	Every language is having its own compiler
