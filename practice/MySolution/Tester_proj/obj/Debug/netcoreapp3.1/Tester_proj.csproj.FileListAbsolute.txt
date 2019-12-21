@@ -1,0 +1,14 @@
+D:\STUDY\CADAC\MS.Net\practice\MySolution\Tester_proj\bin\Debug\netcoreapp3.1\Tester_proj.exe
+D:\STUDY\CADAC\MS.Net\practice\MySolution\Tester_proj\bin\Debug\netcoreapp3.1\Tester_proj.deps.json
+D:\STUDY\CADAC\MS.Net\practice\MySolution\Tester_proj\bin\Debug\netcoreapp3.1\Tester_proj.runtimeconfig.json
+D:\STUDY\CADAC\MS.Net\practice\MySolution\Tester_proj\bin\Debug\netcoreapp3.1\Tester_proj.runtimeconfig.dev.json
+D:\STUDY\CADAC\MS.Net\practice\MySolution\Tester_proj\bin\Debug\netcoreapp3.1\Tester_proj.dll
+D:\STUDY\CADAC\MS.Net\practice\MySolution\Tester_proj\bin\Debug\netcoreapp3.1\Tester_proj.pdb
+D:\STUDY\CADAC\MS.Net\practice\MySolution\Tester_proj\obj\Debug\netcoreapp3.1\Tester_proj.csprojAssemblyReference.cache
+D:\STUDY\CADAC\MS.Net\practice\MySolution\Tester_proj\obj\Debug\netcoreapp3.1\Tester_proj.AssemblyInfoInputs.cache
+D:\STUDY\CADAC\MS.Net\practice\MySolution\Tester_proj\obj\Debug\netcoreapp3.1\Tester_proj.AssemblyInfo.cs
+D:\STUDY\CADAC\MS.Net\practice\MySolution\Tester_proj\obj\Debug\netcoreapp3.1\Tester_proj.dll
+D:\STUDY\CADAC\MS.Net\practice\MySolution\Tester_proj\obj\Debug\netcoreapp3.1\Tester_proj.pdb
+D:\STUDY\CADAC\MS.Net\practice\MySolution\Tester_proj\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+D:\STUDY\CADAC\MS.Net\practice\MySolution\Tester_proj\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+D:\STUDY\CADAC\MS.Net\practice\MySolution\Tester_proj\obj\Debug\netcoreapp3.1\Tester_proj.csproj.CopyComplete

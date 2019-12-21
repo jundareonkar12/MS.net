@@ -1,0 +1,11 @@
+D:\STUDY\CADAC\MS.Net\practice\MySolution\IF_Struct\bin\Debug\netcoreapp3.1\IF_Struct.exe
+D:\STUDY\CADAC\MS.Net\practice\MySolution\IF_Struct\bin\Debug\netcoreapp3.1\IF_Struct.deps.json
+D:\STUDY\CADAC\MS.Net\practice\MySolution\IF_Struct\bin\Debug\netcoreapp3.1\IF_Struct.runtimeconfig.json
+D:\STUDY\CADAC\MS.Net\practice\MySolution\IF_Struct\bin\Debug\netcoreapp3.1\IF_Struct.runtimeconfig.dev.json
+D:\STUDY\CADAC\MS.Net\practice\MySolution\IF_Struct\bin\Debug\netcoreapp3.1\IF_Struct.dll
+D:\STUDY\CADAC\MS.Net\practice\MySolution\IF_Struct\bin\Debug\netcoreapp3.1\IF_Struct.pdb
+D:\STUDY\CADAC\MS.Net\practice\MySolution\IF_Struct\obj\Debug\netcoreapp3.1\IF_Struct.csprojAssemblyReference.cache
+D:\STUDY\CADAC\MS.Net\practice\MySolution\IF_Struct\obj\Debug\netcoreapp3.1\IF_Struct.AssemblyInfoInputs.cache
+D:\STUDY\CADAC\MS.Net\practice\MySolution\IF_Struct\obj\Debug\netcoreapp3.1\IF_Struct.AssemblyInfo.cs
+D:\STUDY\CADAC\MS.Net\practice\MySolution\IF_Struct\obj\Debug\netcoreapp3.1\IF_Struct.dll
+D:\STUDY\CADAC\MS.Net\practice\MySolution\IF_Struct\obj\Debug\netcoreapp3.1\IF_Struct.pdb
