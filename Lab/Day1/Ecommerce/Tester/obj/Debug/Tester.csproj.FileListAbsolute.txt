@@ -1,0 +1,10 @@
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\Tester\bin\Debug\Tester.exe.config
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\Tester\bin\Debug\Tester.exe
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\Tester\bin\Debug\Tester.pdb
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\Tester\bin\Debug\GraphicsLib.dll
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\Tester\bin\Debug\HRLib.dll
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\Tester\bin\Debug\GraphicsLib.pdb
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\Tester\bin\Debug\HRLib.pdb
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\Tester\obj\Debug\Tester.exe
+D:\MS.NET 129-131\Lab\Day1\Ecommerce\Tester\obj\Debug\Tester.pdb
